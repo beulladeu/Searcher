@@ -1,3 +1,4 @@
 # Searcher
-Searcher and Spider project
+##Searcher and Spider project
+
 Реализован поисковик с интерфейсом и сервер с пауком, который скачивает html страницы, парсит их и строит по ним поисковый индекс. Разработано beulladeu.
