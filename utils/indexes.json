@@ -1,0 +1,1182 @@
+{
+  "websites": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Java_(programming_language)",
+      "title": "Java (programming language) - Wikipedia",
+      "keyWords": [
+        {
+          "count": 181,
+          "word": "java"
+        },
+        {
+          "count": 56,
+          "word": "classes"
+        },
+        {
+          "count": 48,
+          "word": "original"
+        },
+        {
+          "count": 35,
+          "word": "languages"
+        },
+        {
+          "count": 35,
+          "word": "oracle"
+        },
+        {
+          "count": 29,
+          "word": "methods"
+        }
+      ]
+    },
+    {
+      "url": "https://www.geeksforgeeks.org/java/?ref\u003dleftbar",
+      "title": "Java Programming Language - GeeksforGeeks",
+      "keyWords": [
+        {
+          "count": 36,
+          "word": "java"
+        },
+        {
+          "count": 14,
+          "word": "classes"
+        },
+        {
+          "count": 7,
+          "word": "implementations"
+        },
+        {
+          "count": 6,
+          "word": "applications"
+        },
+        {
+          "count": 6,
+          "word": "codes"
+        },
+        {
+          "count": 5,
+          "word": "programming"
+        }
+      ]
+    },
+    {
+      "url": "kjkjk",
+      "keyWords": []
+    },
+    {
+      "url": "https://www.geeksforgeeks.org/jvm-works-jvm-architecture/?ref\u003dlbp",
+      "title": "How JVM Works - JVM Architecture? - GeeksforGeeks",
+      "keyWords": [
+        {
+          "count": 70,
+          "word": "class"
+        },
+        {
+          "count": 23,
+          "word": "method"
+        },
+        {
+          "count": 20,
+          "word": "jvm"
+        },
+        {
+          "count": 20,
+          "word": "java"
+        },
+        {
+          "count": 20,
+          "word": "loader"
+        },
+        {
+          "count": 13,
+          "word": "objects"
+        }
+      ]
+    },
+    {
+      "url": "https://javatutorial.net/new-features-in-java-10",
+      "title": "8 New Features in Java 10 That You Should Know About | Java Tutorial Network",
+      "keyWords": [
+        {
+          "count": 29,
+          "word": "java"
+        },
+        {
+          "count": 9,
+          "word": "remove"
+        },
+        {
+          "count": 9,
+          "word": "featured"
+        },
+        {
+          "count": 8,
+          "word": "variables"
+        },
+        {
+          "count": 7,
+          "word": "using"
+        },
+        {
+          "count": 7,
+          "word": "jdk"
+        }
+      ]
+    },
+    {
+      "url": "https://stackify.com/what-is-java-garbage-collection/",
+      "title": "What is Java Garbage Collection? How It Works, Best Practices, Tutorials, and More – Stackify",
+      "keyWords": [
+        {
+          "count": 61,
+          "word": "garbage"
+        },
+        {
+          "count": 45,
+          "word": "collection"
+        },
+        {
+          "count": 31,
+          "word": "menu"
+        },
+        {
+          "count": 23,
+          "word": "java"
+        },
+        {
+          "count": 20,
+          "word": "objects"
+        },
+        {
+          "count": 16,
+          "word": "collector"
+        }
+      ]
+    },
+    {
+      "url": "https://medium.com/javarevisited/10-articles-java-developers-should-read-this-week-7648edd18a22",
+      "title": "10 Articles Java Developers Should Read this Week | by javinpaul | Javarevisited | Medium",
+      "keyWords": [
+        {
+          "count": 51,
+          "word": "java"
+        },
+        {
+          "count": 24,
+          "word": "article"
+        },
+        {
+          "count": 23,
+          "word": "spring"
+        },
+        {
+          "count": 21,
+          "word": "learn"
+        },
+        {
+          "count": 18,
+          "word": "microservices"
+        },
+        {
+          "count": 15,
+          "word": "boot"
+        }
+      ]
+    },
+    {
+      "url": "https://medium.com/javarevisited/learning-java-as-your-first-language-for-and-against-94f9c319e625",
+      "title": "Learning Java as Your First Language: For and Against | by John Selawsky | Javarevisited | Dec, 2020 | Medium",
+      "keyWords": [
+        {
+          "count": 45,
+          "word": "java"
+        },
+        {
+          "count": 21,
+          "word": "learn"
+        },
+        {
+          "count": 16,
+          "word": "language"
+        },
+        {
+          "count": 15,
+          "word": "programming"
+        },
+        {
+          "count": 14,
+          "word": "coding"
+        },
+        {
+          "count": 12,
+          "word": "followed"
+        }
+      ]
+    },
+    {
+      "url": "https://www.wikihow.life/Bake-Cookies",
+      "title": "How to Bake Cookies (with Pictures) - wikiHow Life",
+      "keyWords": [
+        {
+          "count": 128,
+          "word": "cookies"
+        },
+        {
+          "count": 48,
+          "word": "making"
+        },
+        {
+          "count": 37,
+          "word": "recipes"
+        },
+        {
+          "count": 35,
+          "word": "noreferrer"
+        },
+        {
+          "count": 28,
+          "word": "using"
+        },
+        {
+          "count": 25,
+          "word": "how"
+        }
+      ]
+    },
+    {
+      "url": "https://www.allrecipes.com/article/perfect-cookies/",
+      "title": "How to Make Cookies | Allrecipes",
+      "keyWords": [
+        {
+          "count": 83,
+          "word": "cookie"
+        },
+        {
+          "count": 66,
+          "word": "links"
+        },
+        {
+          "count": 65,
+          "word": "new"
+        },
+        {
+          "count": 64,
+          "word": "opens"
+        },
+        {
+          "count": 63,
+          "word": "tab"
+        },
+        {
+          "count": 54,
+          "word": "recipes"
+        }
+      ]
+    },
+    {
+      "url": "https://www.thespruceeats.com/how-to-make-cookies-481247",
+      "title": "How to Make Cookies With Great Recipes and Tips",
+      "keyWords": [
+        {
+          "count": 29,
+          "word": "cookies"
+        },
+        {
+          "count": 17,
+          "word": "recipes"
+        },
+        {
+          "count": 13,
+          "word": "making"
+        },
+        {
+          "count": 12,
+          "word": "spruce"
+        },
+        {
+          "count": 8,
+          "word": "baking"
+        },
+        {
+          "count": 7,
+          "word": "brownie"
+        }
+      ]
+    },
+    {
+      "url": "https://bakeorbreak.com/2017/06/how-to-make-a-cookie-crumb-crust/",
+      "title": "How to Make a Cookie Crumb Crust | Bake or Break",
+      "keyWords": [
+        {
+          "count": 66,
+          "word": "cookie"
+        },
+        {
+          "count": 56,
+          "word": "crusts"
+        },
+        {
+          "count": 30,
+          "word": "crumb"
+        },
+        {
+          "count": 22,
+          "word": "making"
+        },
+        {
+          "count": 19,
+          "word": "recipes"
+        },
+        {
+          "count": 19,
+          "word": "baked"
+        }
+      ]
+    },
+    {
+      "url": "https://www.delish.com/content/cookie-recipes/",
+      "title": "100 Easy Cookie Recipes - Simple Homemade Cookies - Delish.com",
+      "keyWords": [
+        {
+          "count": 26,
+          "word": "cookies"
+        },
+        {
+          "count": 4,
+          "word": "dec"
+        },
+        {
+          "count": 4,
+          "word": "chips"
+        },
+        {
+          "count": 4,
+          "word": "way"
+        },
+        {
+          "count": 4,
+          "word": "chocolate"
+        },
+        {
+          "count": 4,
+          "word": "holiday"
+        }
+      ]
+    },
+    {
+      "url": "https://www.codejava.net/java-ee/servlet/how-to-use-cookies-in-java-web-application",
+      "title": "How to use Cookies in Java web application",
+      "keyWords": [
+        {
+          "count": 62,
+          "word": "cookies"
+        },
+        {
+          "count": 23,
+          "word": "import"
+        },
+        {
+          "count": 19,
+          "word": "name"
+        },
+        {
+          "count": 16,
+          "word": "java"
+        },
+        {
+          "count": 14,
+          "word": "create"
+        },
+        {
+          "count": 12,
+          "word": "string"
+        }
+      ]
+    },
+    {
+      "url": "https://www.baeldung.com/cookies-java",
+      "title": "A Guide To HTTP Cookies In Java | Baeldung",
+      "keyWords": [
+        {
+          "count": 31,
+          "word": "cookie"
+        },
+        {
+          "count": 18,
+          "word": "spring"
+        },
+        {
+          "count": 15,
+          "word": "defaults"
+        },
+        {
+          "count": 15,
+          "word": "cookiestore"
+        },
+        {
+          "count": 14,
+          "word": "cookiemanager"
+        },
+        {
+          "count": 12,
+          "word": "class"
+        }
+      ]
+    },
+    {
+      "url": "https://stackoverflow.com/questions/46718693/okhttp-cookiejar-fails-to-add-cookie-to-request",
+      "title": "java - OkHttp CookieJar fails to add cookie to request - Stack Overflow",
+      "keyWords": [
+        {
+          "count": 20,
+          "word": "cookies"
+        },
+        {
+          "count": 10,
+          "word": "stack"
+        },
+        {
+          "count": 10,
+          "word": "overflow"
+        },
+        {
+          "count": 8,
+          "word": "requests"
+        },
+        {
+          "count": 7,
+          "word": "returns"
+        },
+        {
+          "count": 7,
+          "word": "answer"
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Programming_language",
+      "title": "Programming language - Wikipedia",
+      "keyWords": [
+        {
+          "count": 312,
+          "word": "languages"
+        },
+        {
+          "count": 212,
+          "word": "program"
+        },
+        {
+          "count": 54,
+          "word": "use"
+        },
+        {
+          "count": 38,
+          "word": "types"
+        },
+        {
+          "count": 37,
+          "word": "computer"
+        },
+        {
+          "count": 34,
+          "word": "semantics"
+        }
+      ]
+    },
+    {
+      "url": "https://www.computerhope.com/jargon/p/programming-language.htm",
+      "title": "What is a Programming Language?",
+      "keyWords": [
+        {
+          "count": 40,
+          "word": "languages"
+        },
+        {
+          "count": 21,
+          "word": "programming"
+        },
+        {
+          "count": 13,
+          "word": "computers"
+        },
+        {
+          "count": 13,
+          "word": "developers"
+        },
+        {
+          "count": 12,
+          "word": "following"
+        },
+        {
+          "count": 11,
+          "word": "list"
+        }
+      ]
+    },
+    {
+      "url": "https://www.ibm.com/developerworks/java/library/j-dyn0429/",
+      "title": "Java programming dynamics, Part 1: Java classes and class loading",
+      "keyWords": [
+        {
+          "count": 158,
+          "word": "class"
+        },
+        {
+          "count": 51,
+          "word": "java"
+        },
+        {
+          "count": 44,
+          "word": "loader"
+        },
+        {
+          "count": 43,
+          "word": "load"
+        },
+        {
+          "count": 31,
+          "word": "code"
+        },
+        {
+          "count": 30,
+          "word": "jvm"
+        }
+      ]
+    },
+    {
+      "url": "https://www.wideskills.com/java-tutorial/java-classes-and-objects",
+      "title": "Java Classes and Objects | Wideskills",
+      "keyWords": [
+        {
+          "count": 66,
+          "word": "classes"
+        },
+        {
+          "count": 53,
+          "word": "objects"
+        },
+        {
+          "count": 29,
+          "word": "method"
+        },
+        {
+          "count": 21,
+          "word": "variables"
+        },
+        {
+          "count": 19,
+          "word": "int"
+        },
+        {
+          "count": 17,
+          "word": "java"
+        }
+      ]
+    },
+    {
+      "url": "http://geniusbeauty.com/news/new-year-eve-traditions-in-different-countries/",
+      "title": "New Year\u0027s Eve Traditions in Different Countries | News - Geniusbeauty",
+      "keyWords": [
+        {
+          "count": 30,
+          "word": "new"
+        },
+        {
+          "count": 25,
+          "word": "year"
+        },
+        {
+          "count": 13,
+          "word": "traditions"
+        },
+        {
+          "count": 8,
+          "word": "house"
+        },
+        {
+          "count": 8,
+          "word": "eves"
+        },
+        {
+          "count": 6,
+          "word": "bring"
+        }
+      ]
+    },
+    {
+      "url": "https://www.bbc.co.uk/newsround/38341760",
+      "title": "How do people celebrate New Year around the world? - CBBC Newsround",
+      "keyWords": [
+        {
+          "count": 20,
+          "word": "year"
+        },
+        {
+          "count": 20,
+          "word": "new"
+        },
+        {
+          "count": 14,
+          "word": "people"
+        },
+        {
+          "count": 11,
+          "word": "images"
+        },
+        {
+          "count": 10,
+          "word": "getty"
+        },
+        {
+          "count": 8,
+          "word": "traditions"
+        }
+      ]
+    },
+    {
+      "url": "https://www.triphobo.com/blog/new-year-in-different-countries",
+      "title": "New Year Tradition In Different Countries: TripHobo",
+      "keyWords": [
+        {
+          "count": 35,
+          "word": "year"
+        },
+        {
+          "count": 27,
+          "word": "new"
+        },
+        {
+          "count": 20,
+          "word": "hotel"
+        },
+        {
+          "count": 13,
+          "word": "get"
+        },
+        {
+          "count": 11,
+          "word": "around"
+        },
+        {
+          "count": 11,
+          "word": "one"
+        }
+      ]
+    },
+    {
+      "url": "https://www.st-christophers.co.uk/travel-blog/christmas-and-new-years-eve-traditions-around-the-world",
+      "title": "20 Christmas and New Year\u0027s Eve Traditions Around the World",
+      "keyWords": [
+        {
+          "count": 58,
+          "word": "christmas"
+        },
+        {
+          "count": 20,
+          "word": "days"
+        },
+        {
+          "count": 18,
+          "word": "traditions"
+        },
+        {
+          "count": 12,
+          "word": "eve"
+        },
+        {
+          "count": 11,
+          "word": "new"
+        },
+        {
+          "count": 10,
+          "word": "eats"
+        }
+      ]
+    },
+    {
+      "url": "https://kagouletheband.com/bytovye-sovety/42-kak-kleit-oboi.html",
+      "title": "How to glue wallpaper?",
+      "keyWords": [
+        {
+          "count": 48,
+          "word": "wallpapering"
+        },
+        {
+          "count": 19,
+          "word": "glue"
+        },
+        {
+          "count": 17,
+          "word": "how"
+        },
+        {
+          "count": 10,
+          "word": "pasting"
+        },
+        {
+          "count": 10,
+          "word": "remove"
+        },
+        {
+          "count": 8,
+          "word": "do"
+        }
+      ]
+    },
+    {
+      "url": "https://stroifaq.com/flat-and-country-house/design/kitchen/how-correctly-glue-wallpaper-non-woven-vinyl-paper.html",
+      "title": "How to glue wallpaper - non-woven, vinyl, paper",
+      "keyWords": [
+        {
+          "count": 51,
+          "word": "wallpaper"
+        },
+        {
+          "count": 41,
+          "word": "walls"
+        },
+        {
+          "count": 32,
+          "word": "glue"
+        },
+        {
+          "count": 17,
+          "word": "surface"
+        },
+        {
+          "count": 16,
+          "word": "paste"
+        },
+        {
+          "count": 14,
+          "word": "strip"
+        }
+      ]
+    },
+    {
+      "url": "https://confettissimo.com/en/house/living-room-design/how-to-glue-the-wallpaper-correctly.html",
+      "keyWords": []
+    },
+    {
+      "url": "https://trendexmexico.com/domashniy-uyut/12723-kak-kleit-bumazhnye-oboi.html",
+      "title": "How to glue a paper wallpaper",
+      "keyWords": [
+        {
+          "count": 31,
+          "word": "wallpapers"
+        },
+        {
+          "count": 23,
+          "word": "glue"
+        },
+        {
+          "count": 18,
+          "word": "how"
+        },
+        {
+          "count": 11,
+          "word": "paper"
+        },
+        {
+          "count": 9,
+          "word": "gluing"
+        },
+        {
+          "count": 9,
+          "word": "walls"
+        }
+      ]
+    },
+    {
+      "url": "https://en.tierient.com/how-to-glue-wallpaper/",
+      "title": "How to glue wallpaper?",
+      "keyWords": [
+        {
+          "count": 20,
+          "word": "house"
+        },
+        {
+          "count": 19,
+          "word": "wallpapers"
+        },
+        {
+          "count": 17,
+          "word": "glue"
+        },
+        {
+          "count": 13,
+          "word": "walls"
+        },
+        {
+          "count": 7,
+          "word": "materials"
+        },
+        {
+          "count": 6,
+          "word": "fit"
+        }
+      ]
+    },
+    {
+      "url": "https://www.housebeautiful.com/shopping/home-accessories/g23516139/places-to-buy-wallpaper-online/",
+      "title": "16 Best Places to Buy Wallpaper Online - Unique Home Wallpaper",
+      "keyWords": [
+        {
+          "count": 37,
+          "word": "wallpaper"
+        },
+        {
+          "count": 20,
+          "word": "design"
+        },
+        {
+          "count": 11,
+          "word": "paper"
+        },
+        {
+          "count": 10,
+          "word": "patterns"
+        },
+        {
+          "count": 8,
+          "word": "removable"
+        },
+        {
+          "count": 8,
+          "word": "buying"
+        }
+      ]
+    },
+    {
+      "url": "https://www.amazon.com/Wallpaper/b?ie\u003dUTF8\u0026node\u003d2242314011",
+      "title": "Amazon.com : Wallpaper",
+      "keyWords": [
+        {
+          "count": 81,
+          "word": "wallpaper"
+        },
+        {
+          "count": 43,
+          "word": "stick"
+        },
+        {
+          "count": 43,
+          "word": "wood"
+        },
+        {
+          "count": 40,
+          "word": "amazon"
+        },
+        {
+          "count": 39,
+          "word": "peel"
+        },
+        {
+          "count": 38,
+          "word": "shipping"
+        }
+      ]
+    },
+    {
+      "url": "https://www.buzzfeed.com/elenamgarcia/the-best-places-stores-to-buy-wallpaper-online",
+      "title": "20 Of The Best Places To Buy Wallpaper Online",
+      "keyWords": [
+        {
+          "count": 51,
+          "word": "wallpapers"
+        },
+        {
+          "count": 24,
+          "word": "styles"
+        },
+        {
+          "count": 22,
+          "word": "range"
+        },
+        {
+          "count": 22,
+          "word": "get"
+        },
+        {
+          "count": 21,
+          "word": "price"
+        },
+        {
+          "count": 12,
+          "word": "buzzfeed"
+        }
+      ]
+    },
+    {
+      "url": "https://www.grahambrown.com/us/wallpaper/collection/",
+      "title": "Popular Wallpaper | Buy Wallpaper Online | Top Picks",
+      "keyWords": [
+        {
+          "count": 192,
+          "word": "order"
+        },
+        {
+          "count": 190,
+          "word": "sample"
+        },
+        {
+          "count": 98,
+          "word": "account"
+        },
+        {
+          "count": 96,
+          "word": "save"
+        },
+        {
+          "count": 96,
+          "word": "login"
+        },
+        {
+          "count": 96,
+          "word": "product"
+        }
+      ]
+    },
+    {
+      "url": "https://www.wallpaperstogo.com/t-howtocolor.aspx",
+      "title": "How To Choose Wallpaper Color - Wallpapers To Go",
+      "keyWords": [
+        {
+          "count": 56,
+          "word": "colors"
+        },
+        {
+          "count": 25,
+          "word": "rooms"
+        },
+        {
+          "count": 12,
+          "word": "lightness"
+        },
+        {
+          "count": 10,
+          "word": "making"
+        },
+        {
+          "count": 9,
+          "word": "warm"
+        },
+        {
+          "count": 8,
+          "word": "walls"
+        }
+      ]
+    },
+    {
+      "url": "https://www.homedit.com/how-to-choose-the-right-wallpaper/",
+      "title": "How to choose the right wallpaper",
+      "keyWords": [
+        {
+          "count": 11,
+          "word": "colors"
+        },
+        {
+          "count": 11,
+          "word": "wallpaper"
+        },
+        {
+          "count": 8,
+          "word": "patterns"
+        },
+        {
+          "count": 8,
+          "word": "space"
+        },
+        {
+          "count": 7,
+          "word": "how"
+        },
+        {
+          "count": 6,
+          "word": "choosing"
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/New_Year",
+      "title": "New Year - Wikipedia",
+      "keyWords": [
+        {
+          "count": 149,
+          "word": "year"
+        },
+        {
+          "count": 123,
+          "word": "new"
+        },
+        {
+          "count": 64,
+          "word": "days"
+        },
+        {
+          "count": 38,
+          "word": "calendars"
+        },
+        {
+          "count": 28,
+          "word": "celebrated"
+        },
+        {
+          "count": 24,
+          "word": "dating"
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Calendar_year",
+      "title": "Calendar year - Wikipedia",
+      "keyWords": [
+        {
+          "count": 15,
+          "word": "days"
+        },
+        {
+          "count": 14,
+          "word": "year"
+        },
+        {
+          "count": 8,
+          "word": "calendar"
+        },
+        {
+          "count": 7,
+          "word": "quarter"
+        },
+        {
+          "count": 6,
+          "word": "length"
+        },
+        {
+          "count": 5,
+          "word": "average"
+        }
+      ]
+    },
+    {
+      "url": "https://www.history.com/topics/holidays/new-years",
+      "title": "New Year’s - Traditions, Resolutions \u0026 Date - HISTORY",
+      "keyWords": [
+        {
+          "count": 48,
+          "word": "new"
+        },
+        {
+          "count": 27,
+          "word": "year"
+        },
+        {
+          "count": 15,
+          "word": "days"
+        },
+        {
+          "count": 11,
+          "word": "read"
+        },
+        {
+          "count": 9,
+          "word": "calendar"
+        },
+        {
+          "count": 9,
+          "word": "first"
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Christmas",
+      "title": "Christmas - Wikipedia",
+      "keyWords": [
+        {
+          "count": 353,
+          "word": "christmas"
+        },
+        {
+          "count": 102,
+          "word": "day"
+        },
+        {
+          "count": 86,
+          "word": "celebrated"
+        },
+        {
+          "count": 80,
+          "word": "christian"
+        },
+        {
+          "count": 76,
+          "word": "holidays"
+        },
+        {
+          "count": 58,
+          "word": "century"
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Christmas_tree",
+      "title": "Christmas tree - Wikipedia",
+      "keyWords": [
+        {
+          "count": 384,
+          "word": "tree"
+        },
+        {
+          "count": 319,
+          "word": "christmas"
+        },
+        {
+          "count": 47,
+          "word": "use"
+        },
+        {
+          "count": 43,
+          "word": "decorating"
+        },
+        {
+          "count": 41,
+          "word": "customs"
+        },
+        {
+          "count": 37,
+          "word": "first"
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Christmas_decoration",
+      "title": "Christmas decoration - Wikipedia",
+      "keyWords": [
+        {
+          "count": 76,
+          "word": "christmas"
+        },
+        {
+          "count": 38,
+          "word": "decorations"
+        },
+        {
+          "count": 34,
+          "word": "tree"
+        },
+        {
+          "count": 17,
+          "word": "days"
+        },
+        {
+          "count": 12,
+          "word": "decorate"
+        },
+        {
+          "count": 11,
+          "word": "ornaments"
+        }
+      ]
+    }
+  ]
+}
